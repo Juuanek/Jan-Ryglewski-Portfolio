@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AreaOfATriangleAndACircle/AreaOfATriangleAndACircle.iml" filepath="$PROJECT_DIR$/AreaOfATriangleAndACircle/AreaOfATriangleAndACircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListChallange/ArrayListChallange.iml" filepath="$PROJECT_DIR$/ArrayListChallange/ArrayListChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysChallange/ArraysChallange.iml" filepath="$PROJECT_DIR$/ArraysChallange/ArraysChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankAccountTask/BankAccountTask.iml" filepath="$PROJECT_DIR$/BankAccountTask/BankAccountTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatingDistanceFromPointToPoint/CalculatingDistanceFromPointToPoint.iml" filepath="$PROJECT_DIR$/CalculatingDistanceFromPointToPoint/CalculatingDistanceFromPointToPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarPolymorphismChallange/CarPolymorphismChallange.iml" filepath="$PROJECT_DIR$/CarPolymorphismChallange/CarPolymorphismChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarsChallange/CarsChallange.iml" filepath="$PROJECT_DIR$/CarsChallange/CarsChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComplexNumber/ComplexNumber.iml" filepath="$PROJECT_DIR$/ComplexNumber/ComplexNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositionChallange/CompositionChallange.iml" filepath="$PROJECT_DIR$/CompositionChallange/CompositionChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DaysInMonth/DaysInMonth.iml" filepath="$PROJECT_DIR$/DaysInMonth/DaysInMonth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EqualOrDifferentOrTheSame/EqualOrDifferentOrTheSame.iml" filepath="$PROJECT_DIR$/EqualOrDifferentOrTheSame/EqualOrDifferentOrTheSame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetEvenDigitSum/GetEvenDigitSum.iml" filepath="$PROJECT_DIR$/GetEvenDigitSum/GetEvenDigitSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HasSameLastDigit/HasSameLastDigit.iml" filepath="$PROJECT_DIR$/HasSameLastDigit/HasSameLastDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfNumberIsPalindrome/IfNumberIsPalindrome.iml" filepath="$PROJECT_DIR$/IfNumberIsPalindrome/IfNumberIsPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputCalculator/InputCalculator.iml" filepath="$PROJECT_DIR$/InputCalculator/InputCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputThenPrintSumAndAvarage/InputThenPrintSumAndAvarage.iml" filepath="$PROJECT_DIR$/InputThenPrintSumAndAvarage/InputThenPrintSumAndAvarage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jan-Ryglewski-Portfolio.iml" filepath="$PROJECT_DIR$/Jan-Ryglewski-Portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMaxChallange/MinMaxChallange.iml" filepath="$PROJECT_DIR$/MinMaxChallange/MinMaxChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinutesToYearsAndDays/MinutesToYearsAndDays.iml" filepath="$PROJECT_DIR$/MinutesToYearsAndDays/MinutesToYearsAndDays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Printer/Printer.iml" filepath="$PROJECT_DIR$/Printer/Printer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInpurt/ReadingUserInpurt.iml" filepath="$PROJECT_DIR$/ReadingUserInpurt/ReadingUserInpurt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReversedArrayChallange/ReversedArrayChallange.iml" filepath="$PROJECT_DIR$/ReversedArrayChallange/ReversedArrayChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondsToHoursAndMinutes/SecondsToHoursAndMinutes.iml" filepath="$PROJECT_DIR$/SecondsToHoursAndMinutes/SecondsToHoursAndMinutes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumFirstAndLastDigit/SumFirstAndLastDigit.iml" filepath="$PROJECT_DIR$/SumFirstAndLastDigit/SumFirstAndLastDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aWallTask/aWallTask.iml" filepath="$PROJECT_DIR$/aWallTask/aWallTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getBucketCount/getBucketCount.iml" filepath="$PROJECT_DIR$/getBucketCount/getBucketCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isPerfectNumber/isPerfectNumber.iml" filepath="$PROJECT_DIR$/isPerfectNumber/isPerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" filepath="$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" />
+    </modules>
+  </component>
+</project>
