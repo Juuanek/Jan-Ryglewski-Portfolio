@@ -1,87 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b0ae365-64cd-4ef5-811b-221c6030f0fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AreaOfATriangleAndACircle/AreaOfATriangleAndACircle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AreaOfATriangleAndACircle/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListChallange/ArrayListChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListChallange/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArraysChallange/ArraysChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArraysChallange/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccountTask/BankAccountTask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccountTask/src/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccountTask/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculatingDistanceFromPointToPoint/CalculatingDistanceFromPointToPoint.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculatingDistanceFromPointToPoint/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculatingDistanceFromPointToPoint/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarPolymorphismChallange/CarPolymorphismChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarPolymorphismChallange/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarPolymorphismChallange/src/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarPolymorphismChallange/src/GasPoweredCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarPolymorphismChallange/src/HybridCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarPolymorphismChallange/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarsChallange/CarsChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarsChallange/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarsChallange/src/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarsChallange/src/Holden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarsChallange/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarsChallange/src/Mitsubishi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComplexNumber/ComplexNumber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComplexNumber/src/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComplexNumber/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositionChallange/CompositionChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositionChallange/src/CoffeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositionChallange/src/DishWasher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositionChallange/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositionChallange/src/Refrigerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompositionChallange/src/SmartKitchen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DaysInMonth/DaysInMonth.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DaysInMonth/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualOrDifferentOrTheSame/EqualOrDifferentOrTheSame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EqualOrDifferentOrTheSame/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetEvenDigitSum/GetEvenDigitSum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetEvenDigitSum/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HasSameLastDigit/HasSameLastDigit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HasSameLastDigit/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfNumberIsPalindrome/IfNumberIsPalindrome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfNumberIsPalindrome/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputCalculator/InputCalculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputCalculator/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputThenPrintSumAndAvarage/InputThenPrintSumAndAvarage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InputThenPrintSumAndAvarage/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan-Ryglewski-Portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinMaxChallange/MinMaxChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinMaxChallange/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinutesToYearsAndDays/MinutesToYearsAndDays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinutesToYearsAndDays/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Printer/Printer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Printer/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Printer/src/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadingUserInpurt/ReadingUserInpurt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadingUserInpurt/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReversedArrayChallange/ReversedArrayChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReversedArrayChallange/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SecondsToHoursAndMinutes/SecondsToHoursAndMinutes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SecondsToHoursAndMinutes/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumFirstAndLastDigit/SumFirstAndLastDigit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumFirstAndLastDigit/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aWallTask/aWallTask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aWallTask/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aWallTask/src/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getBucketCount/getBucketCount.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getBucketCount/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isPerfectNumber/isPerfectNumber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isPerfectNumber/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isPrimeNumber/src/Main.java" afterDir="false" />
+    <list default="true" id="5b0ae365-64cd-4ef5-811b-221c6030f0fb" name="Changes" comment="Challanges-Tasks-Exercises-Portfolio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679822132619</updated>
     </task>
+    <task id="LOCAL-00001" summary="Challanges-Tasks-Exercises-Portfolio">
+      <created>1679826766721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679826766721</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,5 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Challanges-Tasks-Exercises-Portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Challanges-Tasks-Exercises-Portfolio" />
   </component>
 </project>
