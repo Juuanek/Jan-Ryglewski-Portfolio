@@ -1,0 +1,10 @@
+Create a list of places, ordered by distance from the starting point which is Sydney. We want to use ListIterator to move both backwards
+and forwards through this ordered itinerary of places. In addition , you 'll create an interactive program with the following menu
+item options.
+Available actions (select word or letter):
+(F)orward
+(B)ackward
+(L)istPlaces
+(M)enu
+(Q)uit
+Use Scanner to get input from the console.
