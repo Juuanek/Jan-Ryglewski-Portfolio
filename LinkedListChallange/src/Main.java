@@ -51,10 +51,17 @@ public class Main {
                     while (stillWorkingOnIt) {
                         String secondInput = scanner.nextLine();
                         if (secondInput.equals("f")) {
-                            System.out.println(iterator.next());
-                            iterator.nextIndex();
+                            if(iterator.hasNext()) {
+
+                                System.out.println(iterator.next());
+
+                            }
                         } else if (secondInput.equals("b")){
-                            System.out.println(iterator.previous());
+                            if(iterator.hasPrevious()) {
+
+                                System.out.println(iterator.previous());
+                            }
+
                         } else if (secondInput.equals("q")){
                             stillWorkingOnIt = false;
                         }

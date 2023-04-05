@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b0ae365-64cd-4ef5-811b-221c6030f0fb" name="Changes" comment="TRY">
-      <change afterPath="$PROJECT_DIR$/LinkedListChallange/LinkedListChallange.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedListChallange/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedListChallange/src/Place.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedListChallange/src/README" afterDir="false" />
+    <list default="true" id="5b0ae365-64cd-4ef5-811b-221c6030f0fb" name="Changes" comment="LinkedListChallange">
+      <change afterPath="$PROJECT_DIR$/AutoboxingChallangeWitchArrayLists/AutoboxingChallangeWitchArrayLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoboxingChallangeWitchArrayLists/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoboxingChallangeWitchArrayLists/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoboxingChallangeWitchArrayLists/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoboxingChallangeWitchArrayLists/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedListChallange/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedListChallange/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedListChallange/src/README" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedListChallange/src/README" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +55,10 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="IfNumberIsPalindrome" />
+      <module name="AutoboxingChallangeWitchArrayLists" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679831687356</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="LinkedListChallange">
+      <created>1680022685987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680022685987</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +156,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Challanges-Tasks-Exercises-Portfolio" />
     <MESSAGE value="TRY" />
-    <option name="LAST_COMMIT_MESSAGE" value="TRY" />
+    <MESSAGE value="LinkedListChallange" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedListChallange" />
   </component>
 </project>
