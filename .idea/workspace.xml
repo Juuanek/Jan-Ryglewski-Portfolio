@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b0ae365-64cd-4ef5-811b-221c6030f0fb" name="Changes" comment="LinkedListChallange">
-      <change afterPath="$PROJECT_DIR$/AutoboxingChallangeWitchArrayLists/AutoboxingChallangeWitchArrayLists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoboxingChallangeWitchArrayLists/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoboxingChallangeWitchArrayLists/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoboxingChallangeWitchArrayLists/src/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoboxingChallangeWitchArrayLists/src/Main.java" afterDir="false" />
+    <list default="true" id="5b0ae365-64cd-4ef5-811b-221c6030f0fb" name="Changes" comment="AutoboxingChallengeWithArrayLists">
+      <change afterPath="$PROJECT_DIR$/AbstractClassChallange/AbstractClassChallange.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractClassChallange/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractClassChallange/src/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractClassChallange/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractClassChallange/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractClassChallange/src/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractClassChallange/src/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedListChallange/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedListChallange/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedListChallange/src/README" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedListChallange/src/README" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,17 +55,10 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="AutoboxingChallangeWitchArrayLists" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="isPerfectNumber" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,13 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="AbstractClassChallange" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680022685987</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="AutoboxingChallengeWithArrayLists">
+      <created>1680726102832</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680726102832</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +164,7 @@
     <MESSAGE value="Challanges-Tasks-Exercises-Portfolio" />
     <MESSAGE value="TRY" />
     <MESSAGE value="LinkedListChallange" />
-    <option name="LAST_COMMIT_MESSAGE" value="LinkedListChallange" />
+    <MESSAGE value="AutoboxingChallengeWithArrayLists" />
+    <option name="LAST_COMMIT_MESSAGE" value="AutoboxingChallengeWithArrayLists" />
   </component>
 </project>
