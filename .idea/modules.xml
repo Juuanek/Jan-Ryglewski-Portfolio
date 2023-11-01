@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractClassChallange/AbstractClassChallange.iml" filepath="$PROJECT_DIR$/AbstractClassChallange/AbstractClassChallange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction [Code  review].iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction [Code  review].iml" />
       <module fileurl="file://$PROJECT_DIR$/AreaOfATriangleAndACircle/AreaOfATriangleAndACircle.iml" filepath="$PROJECT_DIR$/AreaOfATriangleAndACircle/AreaOfATriangleAndACircle.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayListChallange/ArrayListChallange.iml" filepath="$PROJECT_DIR$/ArrayListChallange/ArrayListChallange.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArraysChallange/ArraysChallange.iml" filepath="$PROJECT_DIR$/ArraysChallange/ArraysChallange.iml" />
@@ -15,11 +16,13 @@
       <module fileurl="file://$PROJECT_DIR$/CompositionChallange/CompositionChallange.iml" filepath="$PROJECT_DIR$/CompositionChallange/CompositionChallange.iml" />
       <module fileurl="file://$PROJECT_DIR$/DaysInMonth/DaysInMonth.iml" filepath="$PROJECT_DIR$/DaysInMonth/DaysInMonth.iml" />
       <module fileurl="file://$PROJECT_DIR$/EqualOrDifferentOrTheSame/EqualOrDifferentOrTheSame.iml" filepath="$PROJECT_DIR$/EqualOrDifferentOrTheSame/EqualOrDifferentOrTheSame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/GetEvenDigitSum/GetEvenDigitSum.iml" filepath="$PROJECT_DIR$/GetEvenDigitSum/GetEvenDigitSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/HasSameLastDigit/HasSameLastDigit.iml" filepath="$PROJECT_DIR$/HasSameLastDigit/HasSameLastDigit.iml" />
       <module fileurl="file://$PROJECT_DIR$/IfNumberIsPalindrome/IfNumberIsPalindrome.iml" filepath="$PROJECT_DIR$/IfNumberIsPalindrome/IfNumberIsPalindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputCalculator/InputCalculator.iml" filepath="$PROJECT_DIR$/InputCalculator/InputCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputThenPrintSumAndAvarage/InputThenPrintSumAndAvarage.iml" filepath="$PROJECT_DIR$/InputThenPrintSumAndAvarage/InputThenPrintSumAndAvarage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacesChallange/InterfacesChallange.iml" filepath="$PROJECT_DIR$/InterfacesChallange/InterfacesChallange.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jan-Ryglewski-Portfolio.iml" filepath="$PROJECT_DIR$/Jan-Ryglewski-Portfolio.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedListChallange/LinkedListChallange.iml" filepath="$PROJECT_DIR$/LinkedListChallange/LinkedListChallange.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinMaxChallange/MinMaxChallange.iml" filepath="$PROJECT_DIR$/MinMaxChallange/MinMaxChallange.iml" />
